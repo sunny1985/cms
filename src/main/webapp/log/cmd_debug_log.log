@@ -1,0 +1,124 @@
+03:07:36,106 DEBUG logging:28 : Logging Provider: org.jboss.logging.Log4jLoggerProvider
+03:07:36,110  INFO Version:27 : HV000001: Hibernate Validator 4.3.1.Final
+03:07:36,127 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:07:36,130 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:07:36,134 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:07:36,142 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:07:36,234 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:07:36,235 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:07:36,237 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:07:36,240 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:07:36,257 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:07:36,258 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:07:36,259 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:07:36,262 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:07:36,712 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:07:36,713 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:07:36,714 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:07:36,716 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:07:36,724 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:07:36,725 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:07:36,726 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:07:36,729 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:27,543 DEBUG logging:28 : Logging Provider: org.jboss.logging.Log4jLoggerProvider
+03:12:27,547  INFO Version:27 : HV000001: Hibernate Validator 4.3.1.Final
+03:12:27,569 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:27,572 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:27,577 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:27,587 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:27,715 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:27,716 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:27,717 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:27,718 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:27,724 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:27,725 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:27,727 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:27,730 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:28,194 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:28,195 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:28,196 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:28,199 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:28,208 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:28,209 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:28,210 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:28,214 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:29,665 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:29,666 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:29,667 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:12:29,668 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:12:29,669 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:29,671 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:12:29,889 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:12:29,890 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:12:29,891 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:12:29,892 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:12:29,893 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:12:29,895 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:46,652 DEBUG logging:28 : Logging Provider: org.jboss.logging.Log4jLoggerProvider
+03:13:46,656  INFO Version:27 : HV000001: Hibernate Validator 4.3.1.Final
+03:13:46,685 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:46,695 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:46,703 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:46,712 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:46,786 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:46,786 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:46,787 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:46,789 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:46,795 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:46,796 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:46,796 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:46,798 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:47,265 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:47,266 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:47,266 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:47,268 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:47,276 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:47,276 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:47,281 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:47,283 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:48,633 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:48,633 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:48,634 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:13:48,635 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:13:48,636 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:48,639 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:13:48,768 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:13:48,769 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:13:48,770 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:13:48,771 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:13:48,771 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:13:48,773 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:41,575 DEBUG logging:28 : Logging Provider: org.jboss.logging.Log4jLoggerProvider
+03:19:41,582  INFO Version:27 : HV000001: Hibernate Validator 4.3.1.Final
+03:19:41,606 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:41,610 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:41,617 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:41,630 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:41,748 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:41,749 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:41,750 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:41,755 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:41,768 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:41,769 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:41,770 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:41,772 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:42,256 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:42,257 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:42,258 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:42,262 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:42,273 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:42,274 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:42,276 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:42,280 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:43,961 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:43,962 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:43,963 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:19:43,964 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:19:43,964 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:43,966 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
+03:19:44,227 DEBUG DefaultTraversableResolver:106 : Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+03:19:44,229 DEBUG DefaultTraversableResolver:117 : Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+03:19:44,230 DEBUG ConfigurationImpl:111 : Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator
+03:19:44,230 DEBUG ConfigurationImpl:131 : Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory
+03:19:44,231 DEBUG ValidationXmlParser:184 : Trying to load META-INF/validation.xml for XML based Validator configuration.
+03:19:44,234 DEBUG ValidationXmlParser:187 : No META-INF/validation.xml found. Using annotation based configuration only.
