@@ -33,6 +33,7 @@
 		<property name="lobHandler">
 			<ref local="lobHandler" />
 		</property>
+		<property name="namingStrategy"><ref bean="namingStrategy"/></property> 
 		<property name="packagesToScan">
 			<list>
 				<value>com.xinxinyu.cms.pojo</value>
@@ -64,6 +65,8 @@
 			</props>
 		</property>
 	</bean>
+ 	
+ 	<bean id="namingStrategy" class=" com.xinxinyu.framework.utils.MyNamingStrategy"/>
  	
  	<bean id="ehCacheManager" class="org.springframework.cache.ehcache.EhCacheManagerFactoryBean">  
        <property name="configLocation" value="classpath:/config/ehcache.xml" />  

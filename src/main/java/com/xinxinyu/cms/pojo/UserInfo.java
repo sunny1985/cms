@@ -8,7 +8,6 @@ import javax.persistence.Table;
 import com.xinxinyu.framework.pojo.BasePojo;
 
 @Entity
-@Table(name="T_USER_INFO", catalog = "cms")
 public class UserInfo extends BasePojo{
 	 private int age;  
      
